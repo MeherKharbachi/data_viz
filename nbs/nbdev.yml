@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "data_viz"
+  site-url: "https://MeherKharbachi.github.io/data_viz"
+  description: "Visualize fminside and fifa stats distributions."
+  repo-branch: main
+  repo-url: "https://github.com/MeherKharbachi/data_viz"
