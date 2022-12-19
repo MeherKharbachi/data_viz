@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://MeherKharbachi.github.io',
                 'git_url': 'https://github.com/MeherKharbachi/data_viz',
                 'lib_path': 'data_viz'},
-  'syms': {'data_viz.fminside_vs_fifa': {}}}
+  'syms': { 'data_viz.fminside_vs_fifa': { 'data_viz.fminside_vs_fifa.explore_data_boxplot': ( 'fminside_vs_fifa.html#explore_data_boxplot',
+                                                                                               'data_viz/fminside_vs_fifa.py')}}}
